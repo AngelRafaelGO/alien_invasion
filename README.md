@@ -1,6 +1,6 @@
 # alien_invasion
 
-Hello! Welcome to Alien Invasion (I will rename it some time to Morph Invasion), a simple Space Invaders clone game in Python.
+Hello! Welcome to Alien Invasion, a simple Space Invaders clone game in Python (one day I'll rename it to Morph Invasion).
 
 I created this game following the first project from the excellent book Python Crash Course, by Eric Matthes (2nd edition, 2019, page 225.).
 
