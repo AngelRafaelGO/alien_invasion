@@ -14,7 +14,7 @@ https://www.instagram.com/vincent.owl/
 - Changed background color.
 - Changed UI color.
 - Added a Game Over button once the player ship fleet is depleted.
-- Modified bullet size and speed.
+- Modified bullet color, size and speed.
 - Changed the speed increment of several game objects after each alien fleet is destroyed.
 
 I plan on making other changes to the game, including adding a menu at the start.
