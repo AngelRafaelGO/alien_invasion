@@ -10,7 +10,7 @@ I made several modifications, including:
 
 - Added custom music and sound effects created by Vincent Ligny. You can check him out on instagram:
 https://www.instagram.com/vincent.owl/
-- Added custome images for the ship and aliens.
+- Added custom images for the ship and aliens.
 - Changed background color.
 - Changed UI color.
 - Added a Game Over button once the player ship fleet is depleted.
