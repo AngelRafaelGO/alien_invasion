@@ -4,6 +4,8 @@ Hello! Welcome to Alien Invasion (I will rename it some time to Morph Invasion),
 
 I created this game following the first project from the excellent book Python Crash Course, by Eric Matthes (2nd edition, 2019, page 225.).
 
+The scripts contain all the notes that I made during my coding sessions, I hope you find them helpfull. If not, ignore them.
+
 I made several modifications, including:
 
 - Added custom music and sound effects created by Vincent Ligny. You can check him out on instagram:
