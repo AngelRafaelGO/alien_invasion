@@ -17,7 +17,7 @@ https://www.instagram.com/vincent.owl/
 - Modified bullet color, size and speed.
 - Changed the speed increment of several game objects after each alien fleet is destroyed.
 
-I plan on making other changes to the game, including adding a menu at the start.
+I plan on making other changes to the game, including adding a start menu.
 These changes will be added to the list as soon as they are made.
 
 Feel free to contact me if you have any suggestions or questons about the game.
