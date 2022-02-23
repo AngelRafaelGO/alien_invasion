@@ -10,16 +10,19 @@ I made several modifications, including:
 
 - Added custom music and sound effects created by Vincent Ligny. You can check him out on instagram:
 https://www.instagram.com/vincent.owl/
-- Added custom images for the ship and aliens.
+- Added custom images for the ship and aliens, made by me.
 - Changed background color.
 - Changed UI color.
 - Added a Game Over button once the player ship fleet is depleted.
 - Modified bullet color, size and speed.
 - Changed the speed increment of several game objects after each alien fleet is destroyed.
 
-I plan on making other changes to the game, including adding a start menu.
+I plan on making other changes to the game, including adding a more complex start menu with options.
 These changes will be added to the list as soon as they are made.
 
 Feel free to contact me if you have any suggestions or questons about the game.
 
 Happy coding!
+
+Project stack : 
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
