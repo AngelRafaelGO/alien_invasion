@@ -24,5 +24,7 @@ Feel free to contact me if you have any suggestions or questons about the game.
 
 Happy coding!
 
-Project stack : 
+<br/><br/>
+
+Made with : 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="Python" width="21px" height="21px"></a>
