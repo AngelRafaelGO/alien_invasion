@@ -20,8 +20,6 @@ https://www.instagram.com/vincent.owl/
 I plan on making other changes to the game, including adding a more complex start menu with options.
 These changes will be added to the list as soon as they are made.
 
-Feel free to contact me if you have any suggestions or questons about the game.
-
 Happy coding!
 
 <br/><br/>
